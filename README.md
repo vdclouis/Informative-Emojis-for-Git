@@ -9,7 +9,7 @@ Shamelessly copied and modified from [atom](//atom.io)
 :memo: `:memo:` when writing docs    
 :fire: `:fire:` when fixing something in Firefox    
 :globe_with_meridians: `:globe_with_meridians:` when fixing something in Safari    
-:lollipop: `:lollipop:` when fixing somehting in Chrome    
+:lollipop: `:lollipop:` when fixing something in Chrome    
 :snail: `:snail:` when fixing something in Internet Explorer    
 :steam_locomotive: `:steam_locomotive:` when fixing legacy code   
 :bug: `:bug:` when fixing a bug    
