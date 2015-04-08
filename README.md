@@ -1,4 +1,8 @@
-# Commit and Review Messages
+# Emojis for Commit and Review Messages
+> Some emojis for making your git commits or code reviews more clear
+
+Shamelessly copied and modified from [atom](//atom.io)    
+
 :art: `:art:` when improving the format/structure of the code    
 :racehorse: `:racehorse:` when improving performance    
 :non-potable_water: `:non-potable_water:` when plugging memory leaks    
