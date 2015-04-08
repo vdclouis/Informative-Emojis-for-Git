@@ -1,4 +1,4 @@
-# PR
+# Code Review Emoji's
 :lipstick: `:lipstick:` when improving the format/structure of the code    
 :racehorse: `:racehorse:` when improving performance    
 :non-potable_water: `:non-potable_water:` when plugging memory leaks    
